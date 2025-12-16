@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.XL_pic{
+    width: 3rem;
+    height: 3rem;
+}
